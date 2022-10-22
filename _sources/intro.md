@@ -1,12 +1,47 @@
-# Welcome to your Jupyter Book
-ok
-This is a small sample book to give you a feel for how book content is
-structured.
-#asas
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+# Instalación de EMF (Eclipse Modeling Framework)
 
-Check out the content pages bundled with this sample book to see more.
+Para instalar en EMF en Eclipse debemos de:
+
+Desde el administrador de software de Eclipse, instalar:
+    - Ecore Diagram Editor (SDK)
+    - EMF - Eclipse Modeling Framework SDK
+
+![imagen](https://user-images.githubusercontent.com/114828110/197358729-9c1ff5ad-8aa1-4b3d-9b4a-4607f9fb4d7b.png)
+
+Para confirmar la instalación debemos aceptar las condiciones de software
+
+Una vez ya instalado, podemos ya crear un nuevo proyecto de tipo Ecore Modeling Project
+
+![imagen](https://user-images.githubusercontent.com/114828110/197358800-1a163081-020b-4083-baab-46745be98acb.png)
+![imagen](https://user-images.githubusercontent.com/114828110/197358833-e1694d02-508a-43c4-aeea-5a673025265f.png)
+
+Dentro del proyecto, podemos ya crear nuestras clases y relaciones :) 
+![imagen](https://user-images.githubusercontent.com/114828110/197358899-22a07b04-91d8-4487-93dd-87be4679e234.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ```{tableofcontents}
 ```
